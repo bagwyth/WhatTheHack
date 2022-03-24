@@ -40,7 +40,7 @@ Here is some information about the nested VMs you will find in the simulated env
 
 - smarthotelweb1 (192.168.0.4): web tier (IIS)
 - smarthotelweb2 (192.168.0.5): application tier (IIS)
-- smarthotelsql1 (192.168.6): database tier (SQL Server). Inbound traffic on port 1433 on the host VM is forwarded to this VM
-- UbuntuWAF (192.168.8): nginx reverse proxy. Inbound traffic on port 80 on host VM is forwarded to this VM. It then forwards traffic to the web tier (smarthotelweb1)
+- smarthotelsql1 (192.168.0.6): database tier (SQL Server). Inbound traffic on port 1433 on the host VM is forwarded to this VM
+- UbuntuWAF (192.168.0.8): nginx reverse proxy. Inbound traffic on port 80 on host VM is forwarded to this VM. It then forwards traffic to the web tier (smarthotelweb1)
 
 Credentials to all Windows machines are `Administrator`/`demo!pass123`. For the Ubuntu VM, it is `demouser`/`demo!pass123`.
