@@ -7,6 +7,7 @@
 -  Create storage account(s?) for use when enabling replication
     - Point out a (current, August 21) limitation of hyper-v that we can't migrate direct to a managed disk
     - type of storage account (standard vs premium) determines type of disk ultimately created
+    - they'll miss the requirement to disable soft delete ... 
     - Q: is hyper-v migration directly to managed disks coming any time soon?
 -  Register Hyper-V host with Azure Migrate: Server Migration
     - this often / previously took a while or was tricky somehow? Check when testing
