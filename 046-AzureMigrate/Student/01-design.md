@@ -36,4 +36,4 @@ This challenge is about learning to plan a migration for a real-world production
 
 - [Build a migration plan with Azure Migrate](https://docs.microsoft.com/azure/migrate/concepts-migration-planning)
 - [Set up disaster recovery for Active Directory and DNS](https://docs.microsoft.com/azure/site-recovery/site-recovery-active-directory)
-- [The 5 R's of Rationalization](https://docs.microsoft.com/azure/cloud-adoption-framework/digital-estate/5-rs-of-rationalization)
+- [The 5 Rs of Rationalization](https://docs.microsoft.com/azure/cloud-adoption-framework/digital-estate/5-rs-of-rationalization)
